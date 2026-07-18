@@ -1,196 +1,293 @@
-# Hi 👋, I'm Rashmin Maru
+<!-- ========================================================= -->
+<!--                     HEADER                                -->
+<!-- ========================================================= -->
 
-### 🚀 Senior Full-Stack Engineer | Technical Lead | AI & LLM Integration Specialist
+<h1 align="center">
+Hi 👋 I'm <span style="color:#00BFFF;">Rashmin Maru</span>
+</h1>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<h3 align="center">
+🚀 Senior Full Stack Engineer • Technical Lead • AI & LLM Specialist
+</h3>
 
-- 🔭 Currently building **AI Agents, LLM Applications & SaaS Platforms**
-- 🌱 Exploring **Agentic AI, RAG, MCP, Local LLMs & Multi-Agent Systems**
-- 💼 11+ years of experience in Full Stack Development
-- 🧠 Specialized in AI Integration with OpenAI, Claude, LangChain & Vector Databases
-- ⚡ Passionate about scalable architecture, clean code and automation
-- 📍 Bharuch, Gujarat, India
+<p align="center">
+Building Enterprise Software • AI Agents • SaaS Platforms • Cloud Applications
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Engineer;AI+%26+LLM+Integration+Expert;Laravel+%7C+Node.js+%7C+React+%7C+Next.js;Building+Scalable+Enterprise+Applications;OpenAI+%7C+Claude+%7C+LangChain+%7C+RAG" />
+
+</p>
 
 ---
 
-## 🌐 Connect with Me
+# 🌟 About Me
 
-<p align="left">
-<a href="https://github.com/marurashmin" target="blank">
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 👨‍💻 Professional Summary
+
+✔ 11+ Years of Professional Experience
+
+✔ Senior Full Stack Engineer
+
+✔ Technical Lead
+
+✔ AI & LLM Integration Expert
+
+✔ SaaS Architect
+
+✔ Enterprise Software Developer
+
+✔ Cloud & DevOps Enthusiast
+
+✔ Passionate about Clean Architecture
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/marurashmin">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rashmin-maru-5632a0287/" target="blank">
+<a href="https://www.linkedin.com/in/rashmin-maru-5632a0287/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:marurashmin@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
-## 🤖 AI / LLM
+## 🤖 Artificial Intelligence
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![Anthropic](https://img.shields.io/badge/Claude-black?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector_Database-orange?style=for-the-badge)
-![pgvector](https://img.shields.io/badge/pgvector-blue?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6A5ACD?style=for-the-badge)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Claude-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vector_DB-8E24AA?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## ⚙️ Backend
+## 💻 Languages & Frameworks
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,react,nextjs,typescript,javascript,python"/>
 
-## 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge)
+</p>
 
 ---
 
 ## 🗄 Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+
+</p>
 
 ---
 
-## ☁ DevOps
+## ☁️ Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,nginx"/>
+
+</p>
+
+---
+
+# 💼 Professional Expertise
+
+| Area | Experience |
+|------|------------|
+| Laravel Development | ⭐⭐⭐⭐⭐ |
+| Node.js | ⭐⭐⭐⭐⭐ |
+| NestJS | ⭐⭐⭐⭐⭐ |
+| React.js | ⭐⭐⭐⭐⭐ |
+| Next.js | ⭐⭐⭐⭐⭐ |
+| AI Integration | ⭐⭐⭐⭐⭐ |
+| LLM Applications | ⭐⭐⭐⭐⭐ |
+| SaaS Architecture | ⭐⭐⭐⭐⭐ |
+| Microservices | ⭐⭐⭐⭐⭐ |
+| REST APIs | ⭐⭐⭐⭐⭐ |
+| PostgreSQL | ⭐⭐⭐⭐⭐ |
+| Docker | ⭐⭐⭐⭐⭐ |
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 ALEX OS
-Production-grade AI Multi-Agent Operating System
+## 🤖 AI Multi-Agent Operating System
 
-- Multi-Agent Architecture
-- DAG Execution Engine
-- OpenAI + Claude
-- Token Streaming
-- Semantic Memory
-- Redis Cache
-- PostgreSQL
-- FastAPI
-- React
-- TypeScript
+```text
+█████████████████████████████ 100%
 
----
-
-## 🏠 EstateBlock
-
-AI-powered Real Estate Platform
-
-- NLP Search
-- AI Recommendation
-- Elasticsearch
-- Analytics Dashboard
-- Symfony
+✔ OpenAI
+✔ Claude
+✔ FastAPI
+✔ React
+✔ PostgreSQL
+✔ Redis
+✔ Multi-Agent AI
+✔ Token Streaming
+✔ RAG
+✔ Semantic Memory
+```
 
 ---
 
-## 📢 Ad2Cart
+## 🏢 Enterprise SaaS Platform
 
-Google Ads Automation Platform
+```text
+█████████████████████████████ 100%
 
-- Laravel
-- Google Ads API
-- Campaign Automation
-- Performance Analytics
-
----
-
-## 🏪 ONUS ERP
-
-Retail ERP & POS Integration
-
-- Node.js
-- Laravel
-- Clover POS
-- Warehouse Management
-- Inventory Synchronization
+✔ Laravel
+✔ Node.js
+✔ React
+✔ Docker
+✔ RabbitMQ
+✔ AWS
+✔ REST APIs
+✔ JWT Authentication
+✔ Redis Cache
+```
 
 ---
 
-# 📊 GitHub Stats
+## 🏠 AI Real Estate Platform
 
-![](https://github-readme-stats.vercel.app/api?username=marurashmin&show_icons=true&theme=tokyonight)
+```text
+█████████████████████████████ 100%
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=marurashmin&theme=tokyonight)
+✔ Symfony
+✔ Elasticsearch
+✔ AI Search
+✔ Maps
+✔ Analytics
+```
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marurashmin&layout=compact&theme=tokyonight)
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=marurashmin&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=marurashmin&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marurashmin&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marurashmin&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=marurashmin&theme=algolia&column=4&margin-w=15"/>
+
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
-[![Rashmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marurashmin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marurashmin&theme=react-dark"/>
 
-# 💡 Expertise
-
-- Artificial Intelligence
-- Large Language Models (LLM)
-- Multi-Agent Systems
-- Retrieval Augmented Generation (RAG)
-- Prompt Engineering
-- Vector Databases
-- SaaS Architecture
-- Microservices
-- Event Driven Systems
-- REST APIs
-- WebSockets
-- CI/CD
-- Docker
-- Cloud Architecture
-- Redis
-- Queue Systems
+</p>
 
 ---
 
-## 💬 Quote
+# 👀 Profile Views
 
-> *"Great software is built with clean architecture, continuous learning, and relentless problem-solving."*
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=marurashmin&style=for-the-badge&color=blue"/>
+
+</p>
 
 ---
 
-⭐ **If you like my work, don't forget to star my repositories!**
+# 💡 What I Love Building
+
+🤖 AI Applications
+
+🧠 LLM Agents
+
+⚡ SaaS Platforms
+
+🏗 Enterprise Architecture
+
+🌍 Cloud Infrastructure
+
+📈 High Performance APIs
+
+🔒 Secure Applications
+
+📊 Analytics Dashboards
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+## 🚀
+
+### "Building intelligent software that transforms ideas into scalable reality."
+
+⭐ AI
+
+⭐ Full Stack
+
+⭐ Clean Architecture
+
+⭐ Innovation
+
+</div>
+
+---
+
+<p align="center">
+
+### ⭐ If you like my work, consider following me and starring my repositories!
+
+</p>
